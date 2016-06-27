@@ -5,6 +5,7 @@
 ### Related story:
 
 - PT story:
+<stories>
 - Parent:
 
 ### Summary:
